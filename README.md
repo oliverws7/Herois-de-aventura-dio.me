@@ -59,7 +59,7 @@ Antes de começar, verifique se possui:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/herois-de-aventura.git
+git clone https://github.com/oliverws7/herois-de-aventura-dio.me.git
 
 # Acesse a pasta do projeto
 cd herois-de-aventura
